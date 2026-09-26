@@ -8,3 +8,5 @@ frontend/node_modules/
 backend/app/uploads/
 .env
 dist/
+*.db
+*.sqlite3
